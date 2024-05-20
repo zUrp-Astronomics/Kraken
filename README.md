@@ -6,4 +6,4 @@
  small but efficient powerbox for astronomy setup
 
 
-![3D_view](https://raw.githubusercontent.com/zurp-astronomics/kraken/main/Images/kraken_powerbox_3D.png)
+![3D_view](https://raw.githubusercontent.com/zurp-astronomics/kraken/main/kraken_powerbox_3D.png)
