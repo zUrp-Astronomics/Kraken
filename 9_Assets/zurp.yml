@@ -1,0 +1,35 @@
+# SOURCE: kraken — fiche vitrine de Kraken, lue par le site zurp-astronomics.github.io
+# AUTHOR: architect (kraken)
+# DATE: 2026-10-06
+# STATUS: active
+#
+# Vit dans 9_Assets/zurp.yml du dépôt. Chaque affirmation de `description` est tirée du README
+# racine (section « Specs actuelles ») : rien n'y est ajouté. Une caractéristique qui n'est pas au
+# README n'entre pas ici avant d'y être.
+
+name: Kraken
+tagline: >-
+  Small but efficient powerbox for astronomy setups, the size of a Raspberry Pi.
+slogan: Power to the people
+category: Powerbox
+section: gadgets          # mounts | cameras | gadgets | future
+status: wip               # wip | future | released — décidé par l'humain
+
+description:
+  - >-
+    Kraken is a small but efficient powerbox for astronomy setups. Its 85 × 56 mm board is the
+    size of a Raspberry Pi, in a 90 × 60 × 24 mm case. Power comes in on an XT60 connector,
+    12 V / 20 A, 250 W max; an ESP32 sits on board, with an external temperature and humidity
+    sensor on a jack.
+  - >-
+    Host connection: USB 3 type-B. USB ports: two USB 3 (2.5 A), three USB 2 (2.5 A) and one
+    USB 2 (5 A). Power outputs: two 12 V / 3 A on/off DC barrels, two controllable DC
+    barrels at 12 V / 3 A or adjustable 3–10 V / 4 A, and two controllable power-only USB ports
+    adjustable 1–5 V / 2 A. Work in progress, not validated yet: don't build it.
+
+poster: kraken.webp       # à côté de cette fiche — l'affiche série 2 (1254 × 1254)
+posterAlt: >-
+  Kraken poster on a worn, chipped cream plate: a teal-plated mechanical kraken with a golden eye
+  coils its riveted tentacles, lined with steel suckers, out of crashing waves in front of the full
+  moon, teal rays and blueprint sketches, above the slogan “Power to the people”.
+accent: '#0d7268'         # couleur des rayons de l'affiche

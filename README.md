@@ -1,5 +1,15 @@
-# Kraken - USB-3 PowerBox
-![GPL 3.0 License](https://img.shields.io/badge/GitHub-GPL--3.0-informational)
+<!-- zurp-readme-header:begin — paste this block once, never again: the poster and the badges update themselves at each build of the site — do not edit it -->
+<div align="center">
+
+<a href="https://zurp-astronomics.github.io/kraken/"><img src="https://zurp-astronomics.github.io/brand/posters/kraken.webp" alt="zUrp Astronomics product poster" width="420"></a>
+
+![status](https://img.shields.io/endpoint?url=https%3A%2F%2Fzurp-astronomics.github.io%2Fbrand%2Fstatus%2Fkraken.json)
+
+</div>
+
+<!-- zurp-readme-header:end -->
+
+# Kraken — USB-3 PowerBox
 
 # ⚠Work in Progress -NOT VALIDATED- don't build it⚠
 
@@ -21,4 +31,16 @@
 * 2 sorties pilotables USB (alim uniquement) Adj 1-5V 2A
 
 
-![3D_view](https://raw.githubusercontent.com/zurp-astronomics/kraken/main/kraken_powerbox_3D.png)
+![3D_view](9_Assets/kraken_powerbox_3D.png)
+
+## Arborescence
+
+| dossier | contenu |
+|---|---|
+| [`0_Datasheets/`](0_Datasheets/) | datasheets des composants |
+| [`9_Assets/`](9_Assets/) | images des README et de la doc ; vitrine du site (`zurp.yml` + affiche) |
+
+## Licences
+
+- Logiciel : [`LICENSE`](LICENSE)
+- Matériel : [`LICENSE-HARDWARE`](LICENSE-HARDWARE)
