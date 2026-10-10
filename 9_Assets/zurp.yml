@@ -9,7 +9,8 @@
 
 name: Kraken
 tagline: >-
-  Small but efficient powerbox for astronomy setups, the size of a Raspberry Pi.
+  A powerbox the size of a Raspberry Pi: 250 W in, six USB ports and six switchable power outputs
+  for the whole imaging rig.
 slogan: Power to the people
 category: Powerbox
 section: gadgets          # mounts | cameras | gadgets | future
