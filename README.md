@@ -13,7 +13,7 @@
 
 <h1 align="center">Kraken</h1>
 
-<p align="center"><strong><em>Power to the people.</em></strong></p>
+<p align="center"><strong><em>Power to the people</em></strong></p>
 
 <p align="center">
   <a href="https://zurp-astronomics.github.io/kraken/">Website</a> ·
